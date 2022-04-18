@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhida-li
 - 👀 I’m interested in machine learning (ML) techniques.
-- 🌱 I’m currently learning ML techniques for classifying network anomalies and intrusions
+- 🌱 I’m currently learning ML techniques for classifying network anomalies and intrusions.
 - 💞️ I’m looking to collaborate on machine learning, communication networks, blockchain, and brain-computer interface.
 - 📫 How to reach me: zhidali43@gmail.com
 
