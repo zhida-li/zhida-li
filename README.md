@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhida-li
-- 👀 I’m working on the field of machine learning (ML).
+- 👀 I’m working on the fields of data science, machine learning (ML), and cybersecurity.
 - 🌱 I’m currently developing ML algorithms for detecting network anomalies and intrusions.
 - 🍻 I’m looking to collaborate on machine learning, communication networks, blockchain, and brain-computer interface.
 - 📫 How to reach me: zhidali43@gmail.com
